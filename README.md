@@ -12,7 +12,7 @@ Foi bastante desafiador, e bastante dificil a parte de montar o gráfico, princi
 gráfico idel, mas cada vez venho aprendendo e superando essas adversidades.
 
 Segue abaixo as 10 regras de negócio pedidas:
-•Pergunta de Negócio 1: Qual Cidade com Maior Valor de Venda de Produtos da Categoria 'Office Supplies'?
+•Pergunta de Negócio 1: Qual Cidade com Maior Valor de Venda de Produtos da Categoria 'Office Supplies'? \n
 •Pergunta de Negócio 2: Qual o Total de Vendas Por Data do Pedido?Demonstre o resultado através de um gráfico de barras.
 •Pergunta de Negócio 3: Qual o Total de Vendas por Estado?Demonstre o resultado através de um gráfico de barras.
 •Pergunta de Negócio 4: Quais São as 10 Cidades com Maior Total de Vendas?Demonstre o resultado através de um gráfico de barras.
